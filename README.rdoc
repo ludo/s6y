@@ -1,6 +1,6 @@
 = s6y
 
-Description goes here.
+Ready to save the earth? Shortify your words!
 
 == Note on Patches/Pull Requests
  
