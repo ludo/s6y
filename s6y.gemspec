@@ -10,7 +10,7 @@ Gem::Specification.new do |s|
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["Ludo van den Boom"]
   s.date = %q{2010-04-02}
-  s.description = %q{TODO: longer description of your gem}
+  s.description = %q{Save the earth. Shortify your word.}
   s.email = %q{ludo@cubicphuse.nl}
   s.extra_rdoc_files = [
     "LICENSE",
@@ -24,6 +24,7 @@ Gem::Specification.new do |s|
      "Rakefile",
      "VERSION",
      "lib/s6y.rb",
+     "s6y.gemspec",
      "test/helper.rb",
      "test/test_s6y.rb"
   ]
@@ -31,7 +32,7 @@ Gem::Specification.new do |s|
   s.rdoc_options = ["--charset=UTF-8"]
   s.require_paths = ["lib"]
   s.rubygems_version = %q{1.3.6}
-  s.summary = %q{TODO: one-line summary of your gem}
+  s.summary = %q{S2e t1e e3h. S6y y2r w2d.}
   s.test_files = [
     "test/helper.rb",
      "test/test_s6y.rb"
